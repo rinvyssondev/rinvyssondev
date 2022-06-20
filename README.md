@@ -28,6 +28,7 @@
 * Linux;
 * Redes;
 * Python;
+* Shell script (estudando);
 * Git;
 * Cloud Azure e AWS;
 * Azure devops (Repos, Boards, Pipelines, Artifacts);
