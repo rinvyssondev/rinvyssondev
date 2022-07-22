@@ -27,17 +27,18 @@
 
 * Linux;
 * Redes;
-* Python;
-* Shell script (estudando);
+* JavaScript (estudando);
+* HTML (estudando);
+* CSS (estudando);
+* Shell script;
 * Git;
 * Cloud Azure e AWS;
 * Azure devops (Repos, Boards, Pipelines, Artifacts);
 * Vagrant;
-* Ansible (estudando);
+* Ansible;
 * Bicep e Terraform;
 * Docker;
-* Kubernetes (estudando);
-* Prometheus e Grafana (estudando);
+* Prometheus e Grafana;
 
 
 ### 🚀💻 Idiomas
