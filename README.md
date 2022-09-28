@@ -13,7 +13,7 @@
 - 27 anos;
 - Atuo como desenvolvedor back-end;
 - Comecei na área de TI em 2021 como Engenheiro de dados;
-- Auto didata com aprendizado constante.
+- Auto didata com aprendizado constante;
 
 ### 💡🖥️ Interesses e Atuações
 
@@ -71,4 +71,3 @@
 </div>
 
 ![Snake animation](https://github.com/rinvyssondev/rinvyssondev/blob/output/github-contribution-grid-snake.svg)
-
