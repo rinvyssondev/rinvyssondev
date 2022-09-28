@@ -18,9 +18,9 @@
 
 ### 💡🖥️ Interesses e Atuações
 
-- 🖥️ Atualmente posso atuar com desenvolvedor back-end;
+- 🖥️ Atualmente posso atuar como desenvolvedor back-end;
 - 🤡 curiosidades: Gosto de ler, assistir, jiu-jitsu, pizza, filmes, séries e etc.. ;
-- ❤️ Atualmente busco conhecimento dentro da área desenvolvimento back-end.
+- ❤️ Atualmente busco conhecimento dentro da área de desenvolvimento back-end.
 
 ### 🚀💻 Stack and Tools
 
@@ -48,7 +48,7 @@
 
 ### 🚀💻 Idiomas
 
-- Inglês - Intermediário (Escrita e leitura. Capacidade para ler e documentar aplicações e atualmente desenvolvendo fala e escuta).
+- Inglês - Intermediário (Escrita e leitura. Capacidade para ler e documentar aplicações, atualmente desenvolvendo fala e escuta).
 - Espanhol - básico
 
 ### 🧮📐 Estatísticas
