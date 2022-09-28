@@ -19,7 +19,7 @@
 ### 💡🖥️ Interesses e Atuações
 
 - 🖥️ Atualmente posso atuar como desenvolvedor back-end;
-- 🤡 curiosidades: Gosto de ler, assistir, jiu-jitsu, pizza, filmes, séries e etc.. ;
+- 🤡 curiosidades: gosto de ler, assistir, jiu-jitsu, pizza, filmes, séries e etc.. ;
 - ❤️ Atualmente busco conhecimento dentro da área de desenvolvimento back-end.
 
 ### 🚀💻 Stack and Tools
