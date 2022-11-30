@@ -12,15 +12,15 @@
 ### 👨🏻‍💻 Sobre mim
 
 - 27 anos;
-- Atuo como desenvolvedor back-end;
+- Atuo como desenvolvedor back-end e iOS;
 - Comecei na área de TI em 2021 como Engenheiro de dados;
 - Auto didata com aprendizado constante.
 
 ### 💡🖥️ Interesses e Atuações
 
-- 🖥️ Atualmente posso atuar como desenvolvedor back-end;
+- 🖥️ Atualmente posso atuar como desenvolvedor back-end e mobile;
 - 🤡 curiosidades: gosto de ler, assistir, jiu-jitsu, pizza, filmes, séries e etc.. ;
-- ❤️ Atualmente busco conhecimento dentro da área de desenvolvimento back-end.
+- ❤️ Atualmente busco conhecimento dentro da área de desenvolvimento mobile.
 
 ### 🚀💻 Stack and Tools
 
@@ -30,6 +30,7 @@
 <a><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+<a><img src = "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
 <a><img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"></a>
