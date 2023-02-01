@@ -12,13 +12,14 @@
 ### 👨🏻‍💻 Sobre mim
 
 - 27 anos;
-- Atuo como desenvolvedor back-end e iOS;
+- Atuo como desenvolvedor mobile - flutter;
+- Fui monitor de Introdução a Computação - UFAL;
 - Comecei na área de TI em 2021 como Engenheiro de dados;
 - Auto didata com aprendizado constante.
 
 ### 💡🖥️ Interesses e Atuações
 
-- 🖥️ Atualmente posso atuar como desenvolvedor back-end e mobile;
+- 🖥️ Atualmente posso atuar como desenvolvedor mobile;
 - 🤡 curiosidades: gosto de ler, assistir, jiu-jitsu, pizza, filmes, séries e etc.. ;
 - ❤️ Atualmente busco conhecimento dentro da área de desenvolvimento mobile.
 
