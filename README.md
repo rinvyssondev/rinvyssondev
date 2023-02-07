@@ -12,6 +12,8 @@
 ### 👨🏻‍💻 Sobre mim
 
 - 27 anos;
+- Estudante de Análise e Desenvolvimento de Sistemas - Estácio - 3º período
+- Estudante de Engenharia Elétrica - UFAL - 5º período
 - Atuo como desenvolvedor mobile - flutter;
 - Fui monitor de Introdução a Computação - UFAL;
 - Comecei na área de TI em 2021 como Engenheiro de dados;
