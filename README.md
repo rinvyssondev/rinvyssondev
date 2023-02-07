@@ -20,8 +20,8 @@
 - Auto didata com aprendizado constante.
 
 ### 💡🖥️ Interesses e Atuações
-
-- 🖥️ Atualmente posso atuar como desenvolvedor mobile e web;
+- 👨🏻‍💻 Atualmente trabalho como Desenvolvedor de Software - Mobile (Dart/Flutter);
+- 🖥️ Posso atuar como desenvolvedor mobile e web;
 - 🤡 curiosidades: gosto de ler, assistir, jiu-jitsu, pizza, filmes, séries e etc.. ;
 - ❤️ Atualmente busco conhecimento dentro da área de desenvolvimento mobile.
 
