@@ -14,14 +14,14 @@
 - 27 anos;
 - Estudante de Análise e Desenvolvimento de Sistemas - Estácio - 3º período;
 - Estudante de Engenharia Elétrica - UFAL - 5º período;
-- Atuo como desenvolvedor mobile - flutter;
+- Sou Desenvolvedor Mobile - Flutter;
 - Fui monitor de Introdução a Computação - UFAL;
 - Comecei na área de TI em 2021 como Engenheiro de dados;
 - Auto didata com aprendizado constante.
 
 ### 💡🖥️ Interesses e Atuações
 - 👨🏻‍💻 Atualmente trabalho como Desenvolvedor de Software - Mobile (Dart/Flutter);
-- 🖥️ Posso atuar como desenvolvedor mobile e web;
+- 🖥️ Posso atuar como desenvolvedor mobile e/ou web;
 - 🤡 curiosidades: gosto de ler, assistir, jiu-jitsu, pizza, filmes, séries e etc.. ;
 - ❤️ Atualmente busco conhecimento dentro da área de desenvolvimento mobile.
 
