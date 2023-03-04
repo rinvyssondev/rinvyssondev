@@ -14,7 +14,7 @@
 - 27 anos;
 - Estudante de Análise e Desenvolvimento de Sistemas - Estácio - 3º período;
 - Estudante de Engenharia Elétrica - UFAL - 5º período;
-- Top 60 Rank - UFAL (em Python): https://www.beecrowd.com.br/judge/pt/users/university/ufal?direction=DESC ;
+- Top 30 Rank - UFAL (em Python): https://www.beecrowd.com.br/judge/pt/users/university/ufal?direction=DESC ;
 - Sou Desenvolvedor Mobile e Back-end;
 - Fui monitor de Introdução a Computação - UFAL;
 - Comecei na área de TI em 2021 como Engenheiro de dados;
