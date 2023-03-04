@@ -15,16 +15,16 @@
 - Estudante de Análise e Desenvolvimento de Sistemas - Estácio - 3º período;
 - Estudante de Engenharia Elétrica - UFAL - 5º período;
 - Top 60 Rank - UFAL (em Python): https://www.beecrowd.com.br/judge/pt/users/university/ufal?direction=DESC ;
-- Sou Desenvolvedor Mobile - Flutter;
+- Sou Desenvolvedor Mobile e Back-end;
 - Fui monitor de Introdução a Computação - UFAL;
 - Comecei na área de TI em 2021 como Engenheiro de dados;
 - Auto didata com aprendizado constante.
 
 ### 💡🖥️ Interesses e Atuações
 - 👨🏻‍💻 Atualmente trabalho como Desenvolvedor de Software - Mobile (Dart/Flutter);
-- 🖥️ Posso atuar como desenvolvedor mobile e/ou web;
+- 🖥️ Posso atuar como desenvolvedor mobile e/ou back-end;
 - 🤡 curiosidades: gosto de ler, assistir, jiu-jitsu, pizza, filmes, séries e etc.. ;
-- ❤️ Atualmente busco conhecimento dentro da área de desenvolvimento mobile.
+- ❤️ Atualmente busco conhecimento dentro da área de desenvolvimento mobile e/ou back-end.
 
 ### 🚀💻 Stack and Tools
 
@@ -35,6 +35,7 @@
 <a><img src = "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a><br>
 <a><img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a> <br>
 <a><img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+<a><img src = https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white></a>
 <a><img src = "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
 <a><img src = "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a><br>
 <a><img src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
