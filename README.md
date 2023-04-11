@@ -12,7 +12,7 @@
 ### 👨🏻‍💻 Sobre mim
 
 - 27 anos;
-- Estudante de Análise e Desenvolvimento de Sistemas - Estácio - 3º período;
+- Estudante de Análise e Desenvolvimento de Sistemas - Estácio - 4º período;
 - Estudante de Engenharia Elétrica - UFAL - 5º período;
 - Top 30 Rank - UFAL (em Python): https://www.beecrowd.com.br/judge/pt/users/university/ufal?direction=DESC ;
 - Sou Desenvolvedor Mobile e Back-end;
