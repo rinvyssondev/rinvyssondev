@@ -59,6 +59,7 @@
 
 - Inglês - Intermediário (Escrita e leitura. Capacidade para ler e documentar aplicações, atualmente desenvolvendo fala e escuta).
 - Espanhol - básico
+- Alemão - básico
 
 ### 🧮📐 Estatísticas
 
