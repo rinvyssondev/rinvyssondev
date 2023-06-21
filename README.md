@@ -57,9 +57,9 @@
 
 ### 🚀💻 Idiomas
 
-- Inglês - Intermediário (Escrita e leitura. Capacidade para ler e documentar aplicações, atualmente desenvolvendo fala e escuta).
-- Espanhol - básico
 - Alemão - básico
+- Espanhol - básico
+- Inglês - Intermediário (Escrita e leitura. Capacidade para ler e documentar aplicações, atualmente desenvolvendo fala e escuta).
 
 ### 🧮📐 Estatísticas
 
