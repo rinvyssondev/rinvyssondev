@@ -16,7 +16,7 @@
 - Estudante de Engenharia Elétrica - UFAL - 5º período;
 - Top 30 Rank - UFAL (em Python): https://www.beecrowd.com.br/judge/pt/users/university/ufal?direction=DESC ;
 - Sou Desenvolvedor Mobile e Back-end;
-- Estou me especializando em Back-end (C#/.NET Core);
+- Estou me especializando em Back-end (C# / .NET Core);
 - Fui monitor de Introdução a Computação - UFAL;
 - Comecei na área de TI em 2021 como Engenheiro de dados;
 - Auto didata com aprendizado constante.
