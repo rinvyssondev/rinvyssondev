@@ -13,19 +13,18 @@
 
 - 28 anos;
 - Estudante de Análise e Desenvolvimento de Sistemas - Estácio - 5º período;
-- Estudante de Engenharia da Computação - UFAL - 4º período;
-- Top 30 Rank - UFAL (em Python): https://www.beecrowd.com.br/judge/pt/users/university/ufal?direction=DESC ;
+- Estudante de Engenharia da Computação - UFAL - 5º período;
 - Sou Desenvolvedor Mobile e Back-end;
-- Estou me especializando em Mobile (Swift);
+- Estou me especializando em Mobile;
 - Fui monitor de Introdução a Computação - UFAL;
 - Comecei na área de TI em 2021 como Engenheiro de dados;
 - Auto didata com aprendizado constante.
 
 ### 💡🖥️ Interesses e Atuações
-- 👨🏻‍💻 Atualmente trabalho como Desenvolvedor de Software - Mobile (Dart/Flutter);
+- 👨🏻‍💻 Atualmente trabalho como Desenvolvedor de Software - Mobile;
 - 🖥️ Posso atuar como desenvolvedor mobile e/ou back-end;
 - 🤡 curiosidades: gosto de ler, assistir, jiu-jitsu, pizza, filmes, séries e etc.. ;
-- ❤️ Atualmente busco conhecimento dentro da área de desenvolvimento iOS.
+- ❤️ Atualmente busco conhecimento dentro da área de desenvolvimento mobile.
 
 ### 🚀💻 Stack and Tools
 
