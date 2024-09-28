@@ -12,7 +12,7 @@
 ### 👨🏻‍💻 Sobre mim
 
 - 29 anos;
-- Estudante de Análise e Desenvolvimento de Sistemas - Estácio - Último período;
+- Formado em Análise e Desenvolvimento de Sistemas - Estácio;
 - Estudante de Engenharia da Computação - UFAL - 5º período;
 - Sou Desenvolvedor Mobile e Back-end;
 - Estou me especializando em Android;
