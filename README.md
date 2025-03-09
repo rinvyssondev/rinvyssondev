@@ -13,10 +13,10 @@
 
 - 29 anos;
 - Graduado em Análise e Desenvolvimento de Sistemas - Estácio;
-- Estudante de Engenharia da Computação - UFAL - 5º período;
+- Estudante de Sistemas de Informação - IFAL - 5º período;
 - Sou Desenvolvedor Mobile e Back-end;
 - Estou me especializando em Android;
-- Comecei na área de TI em 2021 como Engenheiro de dados;
+- Comecei na área de TI em 2021 como Engenheiro devops;
 - Auto didata com aprendizado constante.
 
 ### 💡🖥️ Interesses e Atuações
