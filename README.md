@@ -11,7 +11,7 @@
 
 ### 👨🏻‍💻 Sobre mim
 
-- 29 anos;
+- 30 anos;
 - Graduado em Análise e Desenvolvimento de Sistemas - Estácio;
 - Estudante de Sistemas de Informação - IFAL - 5º período;
 - Sou Desenvolvedor full-stack e mobile;
