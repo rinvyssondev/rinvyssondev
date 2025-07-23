@@ -14,16 +14,16 @@
 - 29 anos;
 - Graduado em Análise e Desenvolvimento de Sistemas - Estácio;
 - Estudante de Sistemas de Informação - IFAL - 5º período;
-- Sou Desenvolvedor Mobile e Back-end;
-- Estou me especializando em Android;
+- Sou Desenvolvedor full-stack e mobile;
+- Estou me especializando em full-stack;
 - Comecei na área de TI em 2021 como Engenheiro devops;
 - Auto didata com aprendizado constante.
 
 ### 💡🖥️ Interesses e Atuações
-- 👨🏻‍💻 Atualmente trabalho como Desenvolvedor Mobile - Android;
-- 🖥️ Posso atuar como desenvolvedor mobile e/ou back-end;
+- 👨🏻‍💻 Atualmente trabalho como Desenvolvedor full-stack (node e next);
+- 🖥️ Posso atuar como desenvolvedor full-stack web e mobile;
 - 🤡 curiosidades: gosto de ler, assistir, jiu-jitsu, pizza, filmes, séries e etc.. ;
-- ❤️ Atualmente busco conhecimento dentro da área de desenvolvimento mobile.
+- ❤️ Atualmente busco conhecimento dentro da área de desenvolvimento full-stack.
 
 ### 🚀💻 Stack and Tools
 
