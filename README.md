@@ -20,7 +20,7 @@
 - Auto didata com aprendizado constante.
 
 ### 💡🖥️ Interesses e Atuações
-- 👨🏻‍💻 Atualmente trabalho como Desenvolvedor full-stack (node e next);
+- 👨🏻‍💻 Atualmente trabalho como Desenvolvedor full-stack (java e next);
 - 🖥️ Posso atuar como desenvolvedor full-stack web e mobile;
 - 🤡 curiosidades: gosto de ler, assistir, jiu-jitsu, pizza, filmes, séries e etc.. ;
 - ❤️ Atualmente busco conhecimento dentro da área de desenvolvimento full-stack.
